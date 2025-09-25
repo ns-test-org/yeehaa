@@ -1,0 +1,14 @@
+# pnpm configuration for webapp template
+# Inherits from parent .pnpmrc but can override specific settings
+
+# Store directory for packages (shared across all projects)
+store-dir=/workspace/.pnpm-store
+
+# Cache directory for metadata and temporary files
+cache-dir=/workspace/.pnpm-cache
+
+# Use hard links when possible for better performance
+package-import-method=hardlink
+
+# Disable strict peer dependencies to avoid issues with dependencies
+strict-peer-dependencies=false
