@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "✨ Vibrant Calendar - Beautiful Calendar Experience",
-  description: "A stunning, vibrant calendar application with beautiful gradients and smooth animations. Manage your events in style!",
+  title: "✨ COOL CALENDAR - Beautiful Calendar Experience",
+  description: "A stunning, cool calendar application with beautiful gradients and smooth animations. Manage your events in style!",
 };
 
 export default function RootLayout({
@@ -32,4 +32,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 

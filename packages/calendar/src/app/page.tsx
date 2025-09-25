@@ -18,7 +18,7 @@ export default function Home() {
         <header className="text-center mb-12">
           <div className="inline-block">
             <h1 className="text-5xl sm:text-7xl font-black text-white mb-6 drop-shadow-2xl bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 bg-clip-text text-transparent animate-pulse">
-              ✨ Vibrant Calendar ✨
+              ✨ COOL CALENDAR ✨
             </h1>
             <div className="w-32 h-2 bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 rounded-full mx-auto mb-4 animate-pulse"></div>
           </div>
@@ -50,5 +50,6 @@ export default function Home() {
     </div>
   );
 }
+
 
 
