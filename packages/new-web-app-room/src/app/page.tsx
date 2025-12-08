@@ -14,12 +14,13 @@ export default function Landing() {
           Hello World
         </h1>
         <p className="text-2xl text-white/90 drop-shadow-lg animate-fade-in-delay">
-          Welcome to YOUR new landing page
+          Welcome to your new landing page
         </p>
       </div>
     </div>
   );
 }
+
 
 
 
